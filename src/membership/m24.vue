@@ -1,0 +1,1713 @@
+<template>
+  <div>
+    <v-container>
+      <v-layout>
+        <v-flex xs12 class="text">
+          <v-card-title class="titl">United States</v-card-title>
+        </v-flex>
+      </v-layout>
+    </v-container>
+    <v-container grid-list-lg class="long-card-wrap">
+      <v-layout row wrap>
+        <v-flex d-flex xs12>
+          <v-card class="long-card">
+            <v-card-title class="h4">Milena Abadjiev, M.D.</v-card-title>
+            <br />
+            <p>91 Westland Ave., Box 67, Boston, MA 02115. Tel. 617-267-0336</p>
+            <p>"I have graduated medicine in Bulgaria. The need to improve my education led me to the reading of psychoanalytic literature. The ideas of Karen Horney can be applied in different countries, and her introduction of self-analysis as a supporting method would significantly facilitate the training of psychoanalysts from the former East European countries. Reading her essays strongly influenced my wish to specialize in psychiatry in the U.S. I came to this country recently and am now in the process of preparing for the exams necessary for getting into a residency. I shall be glad to contact analysts whose work is based on Horney's ideas. At present I live in Boston and would like to meet analysts working in this region. I am also available for international communication. I speak French, English, some German, and, as a Bulgarian, I am fluent in Russian. In East European countries there is still a considerable deficit regarding psychoanalytic literature. I would be glad to help with the translation and publishing of Horney's works abroad."</p>
+          </v-card>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Eric W. Anders, M.A.</v-card-title>
+                <br />
+                <p>(English, Harvard)</p>
+                <p>Department of English, University of Florida, Gainesville FL 32611.</p>
+                <p>"My Master's thesis uses Horney's understanding of masochism in analyzing the figure of Tommy Wilhelm in Saul Bellow's Seize the Day. Her account of the masochist's seemingly excessive suffering as an attempt to dissolve the boundaries of the self is helpful in explaining the controversial ending of Bellow's novel. I am working on a Ph.D. in English at the University of Florida and I also plan on training as an analyst. I would be interested in learning about psychoanalytic institutes around the world that are open to the training of lay analysts and use the ideas of Horney and Erich Fromm as guiding theories."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Arnaldo Apolito, M.D.</v-card-title>
+                <br />
+                <p>(U. of Naples)</p>
+                <p>80 Undercliff Road, Montclair, NJ 07042. Tel. (201) 744-3182</p>
+                <p>Training and Supervising Analyst, American Institute for Psychoanalysis;</p>
+                <p>Clinical Professor of Psychiatry, UMDNJ; Private Practice; Consultations; Forensic Psychiatry.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marjorie Atkinson, M.S.W.</v-card-title>
+                <br />
+                <p>24475 Paseo Privado, Salinas, CA 93908</p>
+                <p>Retired. Recently taught English in Kyrgyzstan. "I have had an article published by the Association for Humanistic Psychology on my journey to the Russian nuclear test site with the International Physicians for the Prevention of nuclear war. I have been interested in Karen Horney since graduate school days, as a psychiatric writer I could relate to and who could help me expand my knowledge of myself and other people. I am today very much interested in child abuse, how it relates to our social and political problems, and how we can leave a livable world for children of the future."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Teresa Bailey, Ph.D.</v-card-title>
+                <br />
+                <p>(Psychology); Ph.D. (History, Stanford); A.M. (Religion; Minor, Greek); M. Divinity (Bible)</p>
+                <p>P.O. Box 4058, Los Altos, CA 94024</p>
+                <p>Working on second Ph.D. in Clinical Psychology. Consultant, Center for Teaching and Learning, Stanford U. President & co-founder, Moose Software, Palo Alto, CA.</p>
+                <p>Recent unpublished paper: "Cross-Cultural Therapy: Modus Operandi or More Liberal Guilt?" (on KH's The Neurotic Personality).</p>
+                <p>Ph.D. Thesis: "From Piety to Politics: Elisabeth of Brauschweig and the Reformation in Braunschweig-Calenberg 1540-1545" [could also be titled, "Making the Personal Political: E of B, etc."]</p>
+                <p>Interests: Gregorian Chant, Medieval and Renaissance polyphony; Jewish and Christian Biblical exegesis. Currently conducting research on music, sound, and musical instrument responses in Rorschach protocols.</p>
+                <p>"My particular interests in Horney are her work on female developmental psychology, and her notion that neurosis is culturally defined. From this, the question arises, what is normal development in a multicultural, multiracial society? Most interesting book on bridging cross-cultural lack of communication: Vickie Hearne, Adam's Task: Calling Animals by Name. NY: Alfred Knopf."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Sally A. Bartlett, M.A.</v-card-title>
+                <br />
+                <p>(English, U. of Florida)</p>
+                <p>8700 N. 50th St. #925, Tampa, FL 33617. Tel. (813) 989-8525</p>
+                <p>Ph.D. Candidate (English), University of South Florida; Instructor, Eckerd College; U. of S. Florida</p>
+                <p>Essays using Horney: (1) "Humanistic Psychology in C. S. Lewis's Till We Have Faces: A Feminist Critique," Studies in the Literary Imagination, 22 (Fall, 1989), 185-198; (2) "Fantasy as Internal Mimesis in Bernard Shaw's Saint Joan," Notes on Modern Irish Literature, 3 (1991), 5-12; (3) "Spectral Thoughts and Psychological Mimesis in A Portrait of the Artist as a Young Man," Notes on Modern Irish Literature, 5: 57-66.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Barbara E. Bell, M.D.</v-card-title>
+                <br />
+                <p>51 Fifth Ave., #1AD, New York, NY 10003. Tel. (212) 633-9260</p>
+                <p>Graduate and Faculty Member, American Institute for Psychoanalysis; Lay Board Member, Karen Horney Clinic.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Deana Benishay, M.A</v-card-title>
+                <br />
+                <p>220 Madison Ave., 4R, New York, NY 10016</p>
+                <p>Enrolled in U. of Southern California Clinical Psychology doctoral program. Intern at Beth Israel Medical Center.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card" height="600px">
+                <v-card-title class="h4">Milton M. Berger, M.D.</v-card-title>
+                <br />
+                <p>(Middlesex U. School of Medicine)</p>
+                <p>501 East 79th St., New York, NY 10021. Tel. (212) 628-6689</p>
+                <p>Clinical Professor of Psychiatry, NYU Medical Center; Past President, Association for the Advancement of Psychoanalysis; President, Association for Group Psychoanalysis and Group Process.</p>
+                <p>Author of 5 books, over 100 articles, 250 videotape programs.</p>
+                <p>Founder, Video Committee of American Psychiatric Association, 1970-80. Former President, American Group Psychotherapy Association, 1962-64. Former Director, Education and Training, NY State Dept. of Mental Hygiene South Beach Psychiatric Center, Staten Island, NY, 1972-83.</p>
+                <p>"I first met Karen Horney when she taught 'At War with Ourselves' at the New School in NYC in 1947 and was electrified by her presence and what she had to say about my human condition. I had the pleasure of having her as my teacher at the American Institute of Psychoanalysis from 1947-1952, when she died. She was my faculty advisor and a key person in my development as a person and as a psychoanalyst. She was indeed a great lady and I thoroughly enjoyed putting together the commemorative issue of The American Journal of Psychoanalysis (Fall, 1991) and the Conference to commemorate the 50th Anniversary of her founding of the Institute, the Association, and the seeds for the Karen Horney Clinic (see the 1955 Karen Horney Foundation Newsletter, Vol. 1, No. 1, which I edited)."</p>
+                <p>The proceeding of the above mentioned conference have been published as Women Beyond Freud: New Concepts of Feminine Psychology, ed. Milton Berger (Brunner/Mazel, 1994).</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Kira Quint Berke, M.A.</v-card-title>
+                <br />
+                <p>(Clinical Psychology, Fordham U.)</p>
+                <p>40 West 77th St., 16A, New York, NY 10024. Tel. 212-595-0751</p>
+                <p>Ph.D. candidate in Clinical Psychology, Fordham U. Treats patients in analytically oriented psychotherapy at Karen Horney Clinic. Rater/interviewer for Mood and Personality Disorder Study at Bronx VA and Mt. Sinai Hospital.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Martin Birnbach, Ph.D.</v-card-title>
+                <br />
+                <p>(Political Science, Rutgers)</p>
+                <p>5312 Woodlawn Ave. N., Seattle, Washington 98103</p>
+                <p>Professor of Political Science Emeritus, San Jose State University.</p>
+                <p>Author: Neo-Freudian Social Philosophy (Stanford University Press, 1961; reissued, 1978); American Political Life (Dorsey Press, 1971); articles, including "Karen Horney," in the International Encyclopedia of the Social Sciences (Macmillan, 1968), VI, 513-516.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">George Blednick, Ph.D.</v-card-title>
+                <br />
+                <p>(Fordham)</p>
+                <p>36 Overhill Rd., Melville, NY 11747. Tel. (516) 427-8505</p>
+                <p>Graduate, American Institute for Psychoanalysis; Executive Board, Nassau County Psychological Association; Associate Editor, Newsletter for the Association for the Advancement of Psychoanalysis</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Helen Boigon, M.D.</v-card-title>
+                <br />
+                <p>(Woman's Medical College of Pennsylvania)</p>
+                <p>45 East 82nd St., New York, NY 10028. Tel. (212) 772-0063</p>
+                <p>Graduate, American Institute for Psychoanalysis; Private practice in psychotherapy.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Lucia Bortoli</v-card-title>
+                <br />
+                <p>Department of English, University of Notre Dame, Notre Dame, IN 46556</p>
+                <p>Ph.D. candidate. "I am interested in the application of Karen Horney's theories of self-analysis to two autobiographies of the turn of the century."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Julie Broderick-Green, B.A.</v-card-title>
+                <br />
+                <p>(Seton Hill College)</p>
+                <p>25 Country Club Rd., Darien CT 06820</p>
+                <p>"I am a 53 year old graduate student at Manhattanville College in Purchase, New York. My mentor and thesis advisor is Nancy Schaumburger. The thesis I am writing is called "'Offer It Up'--How the Ethic of Self-Sacrifice Affects the Lives of Irish and Irish-American Women." I am using an interdisciplinary approach, combining psychological analysis with literary depictions of women who have chosen a self-denying life-style.</p>
+                <p>I became interested in Karen Horney's work when I took a course entitled "Theories of Personality Formation" given by Christopher Monte, who wrote the textbook Beneath the Mask. I intend to integrate Horney's psychological insights in Feminine Psychology and Neurosis and Human Growth into my thesis.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Karen Butery, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Michigan State U.)</p>
+                <p>516 Woodmoor Ridge Court, Wildwood, MO 63011-1776. Tel. 636-4325 [updated 2001]</p>
+                <p>Wrote doctoral dissertation, The Victorian Heroine: A Psychological Approach, under directorship of Bernard Paris. Taught at Michigan State U., Oakland U., and California State U. (L.A.). Current position: Senior Management Consultant, Management & Organizational Development, Sony Electronics Inc.</p>
+                <p>Has published three essays employing Horney: (1) "Jane Eyre's Flights from Decision," Third Force Psychology and the Study of Literature, ed. Bernard J. Paris; (2) "The Contributions of Horneyan Psychology to the Study of Literature," AJP, 42 (1982); (3) "From Conflict to Suicide: The Inner Turmoil of Quenten Compson," AJP, 49 (1989).</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Alejandro Caceres, Ph.D.</v-card-title>
+                <br />
+                <p>(Spanish, Indiana U.)</p>
+                <p>400 N. Oakland #26, Carbondale, IL 62901. Tel. 618-529-3507</p>
+                <p>Wrote a dissertation employing Maslow and Horney entitled Dramatized Consciousness in the Novels of Juan Valera: An Approach from the 'Third Force' Psychology Perspective. Holds M.M. degrees in piano performance and choral conducting from Indiana U. Has lectured widely and given piano recitals in Uruguay (native country), Argentina, Chile, and the U.S. Other recitals devoted to German lieder, French chanson, Italian bel canto. Teaching in the Dept. of Foreign Languages and Literatures, Southern Illinois U., Carbondale, IL 62901-4521/</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Susan Church-Dzul, M.A.</v-card-title>
+                <br />
+                <p>(Latin American Studies, U. of Florida)</p>
+                <p>Pan American School, Box 1578, Kingsville, TX 78363. Tel. 512-592-0513</p>
+                <p>Teacher of Spanish literature and language and of English as a second language.</p>
+                <p>"I happened upon Horney theory while searching to explain the relationship between power and incidences of sexual abuse and exploitation in a classic Mexican novel. My Master's thesis, "The Interplay of Neurosis and Power Relations in Pedro Paramo," analyzes the neurotic defensive strategies of moving toward, a way from, and against others as the psychological underpinning of power in the novel. I would like to expand this application to the 19th century Spanish novel, among others."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">The Rev. James Walter Clifton, LCSW, LMHC, Ph.D.</v-card-title>
+                <br />
+                <p>(Pastoral Counseling, Bethany Divinity College and Seminary)</p>
+                <p>3534 S. Shelby 750 W., Franklin, IN 46131. Tel. 317-729-5180</p>
+                <p>Minister, Pastoral Counselor, and Social Worker working with individual adults and groups.</p>
+                <p>"The ground breaking theories of Karen Horney are as relevant, productive, constructive, and efficacious today as they were decades ago. Contemporary psychology and psychiatry, with their fads and junk science, take a back seat to her contributions towards alleviation of emotional suffering."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Daniel E. Cohen, M.D.</v-card-title>
+                <br />
+                <p>(Columbia)</p>
+                <p>127 Lawrence Ct., Ridgewood, NJ 07450. Tel. (201) 670-9689</p>
+                <p>Training and Supervising Analyst, American Institute for Psychoanalysis; Medical Director, Karen Horney Clinic; Assistant Clinical Professor of Psychiatry, Columbia College of Physicians and Surgeons.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Kenneth H. Cohen, M.D.</v-card-title>
+                <br />
+                <p>(Cornell)</p>
+                <p>116 Amesbury Rd., Kensington, NH 03833.</p>
+                <p>Vice President and Clinical Psychiatrist, Exeter Mental Health Associates; Assistant Clinical Professor in Psychiatry, Tufts School of Medicine; Active Staff, Exeter Hospital. Clinical research interests: short term psychotherapy, integrated psychotherapy and pharmacological treatments, adult development and fathering, panic disorder.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Miriam Cohen, M.D.</v-card-title>
+                <br />
+                <p>(Hahnemann Medical College, Philadelphia)</p>
+                <p>4810 E. Andora Dr., Scottsdale, AZ 85254. Tel. (602) 996-7920. E-mail: miriam-cohen@jofi.com</p>
+                <p>Analytic Training: Los Angeles Institute for Psychoanalytic Studies. Fellow of American Academy of Psychoanalysis. Private Practice.</p>
+                <p>"I became interested in psychoanalysis while doing my psychiatric residency and eventually obtained analytic training by commuting between Phoenix and Los Angeles for about six years. As my analyst trained in New York with a Horneyan institute, I became interested in Horney's work. I have become active in the American Academy of Psychoanalysis, and I have presented papers to the Academy on the negative therapeutic reaction, the stories of Hans Christian Andersen, and the mythology of vampires. I have a private practice in psychiatry and psychoanalysis and teach part-time in a psychiatric residency. Along with a small group of colleagues, I am working to establish an interdisciplinary training program in psychoanalytic psychotherapy in our area (the Southwest Center for Psychoanalytic Studies)."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Bernard G. Colby, Ph.B., J.D.</v-card-title>
+                <br />
+                <p>1616 Sheridan Rd., Wilmette, IL 60091. Tel. 708-256-3905</p>
+                <p>Practiced law in Chicago from 1946-1990. Institutional affiliations: University of Chicago, De Paul University, Northwestern University (Institute for Learning in Retirement).</p>
+                <p>"Karen Horney is unique among psychoanalysts because she has written at length about the feasibility and desirability of self-analysis. I believe that I have gained an insight into this process that is both profound and unique, in part because I am not a psychological professional. I have earned my livelihood as a lawyer. I am interested in how self-analysis has benefitted me and can benefit others who are similarly endowed and needy.</p>
+                <p>What I call 'psychoanalytic literacy' is analogous to language literacy. A person who know how to read and write has been given a technique for self-improvement that has been in the forefront of advancing civilization and has begun a journey that lasts his whole life. So it can be with psychoanalytic literacy. Just as language literacy required a long period of development to arrive at the role it now plays in civilization, so it is probable that the same is the destiny of psychoanalysis. Today barely a century old, it is an idea before its time. We can only conjecture as to how long it will take to fulfill its destiny. But it appears evident to me that the IKHS can provide an opportunity for advancing the cause, and that is why it pleases me to become a member."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Bettee F. Culbertson</v-card-title>
+                <br />
+                <p>P. O. Box 121, Maunaloa, Hawaii 96770</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Jack Danielian, Ph.D.</v-card-title>
+                <br />
+                <p>(Psychology, Columbia)</p>
+                <p>13 Gill St., Exeter, NH 03833. Tel. (603) 778-8233</p>
+                <p>Training and Supervising Analyst, American Institute for Psychoanalysis; Co-Director, Exeter-Portsmouth Mental Health Association, Exeter, NH.</p>
+                <p>Author of many papers, including "The Negative Therapeutic Reaction: Crisis of Practice or Crisis of Theory?" AJP, 45; "Karen Horney and Heinz Kohut: Theory and the Repeat of History," AJP, 48; "The Negative Therapeutic Reaction: The Uses of Negation," J. of the American Academy of Psychoanalysis, 16.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">J. Peter Demetri, D.D.S.</v-card-title>
+                <br />
+                <p>(SUNY, Stony Brook)</p>
+                <p>5 East Main St., Pawling, NY 12564. Tel. 914-855-5220</p>
+                <p>Presently part-time MSW candidate, Adelphi University, Hudson Valley Branch, Poughkeepsie, NY. Private practice of dentistry.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Edward L. De Rosis, M.D.</v-card-title>
+                <br />
+                <p>(NYU)</p>
+                <p>42 Rhinestone Terrace, San Rafael, CA 94903. Tel. 415-472-4844.</p>
+                <p>Attending physician, UCSF/Mt. Zion Medical Center, San Francisco, CA. Private practice in psychotherapy and psychopharmacology/behavioral medicine.</p>
+                <p>"Dr. De Rosis received his training in Medicine and Psychiatry at NYU-Bellevue Hospital in New York City and St. Mary's Hospital in San Francisco. He gained additional experience in emergency psychiatric assessment, treatment, and hospital consultation-liaison at San Francisco General Hospital and UCSF/Mount Zion Medical Center. He is a qualified Medical Examiner with the Industrial Medical Council of California. Dr. De Rosis has particular interests in psychopharmacological treatment of anxiety and mood disorders, as well as combined medical psychiatric disorders such as immune system dysregulation, chronic fatigue, pain, and female endocrine disorders that affect psychological functioning. He currently maintains office practices in San Francisco and Kentfield and has medical staff affiliations at UCSF/Mount Zion Hospitals in San Francisco and Ross Hospital in Marin County."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Helen A. De Rosis, M.D.</v-card-title>
+                <br />
+                <p>(NYU)</p>
+                <p>4625 Douglas Ave., New York, NY 10471. Tel. (212) 543-6468</p>
+                <p>Training and supervising analyst, Karen Horney Center for Psychoanalysis; Associate Clinical Professor of Psychiatry, NYU School of Medicine; past president, American Institute for Psychoanalysis; past president, Karen Horney Clinic; Editor Emeritus, American Journal of Psychoanalysis; past president, Medical Board, Frances Schervier Hospital; Founder and President, Depressives Anonymous. Chair, Steering Committee, International Karen Horney Society.</p>
+                <p>Author: Parent Power/Child Power, The Book of Hope, Women and Anxiety, and Working with Patients: Guidelines for Beginning Psychotherapists.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Louis E. De Rosis, M.D.</v-card-title>
+                <br />
+                <p>(Downstate Medical School)</p>
+                <p>40 East 89th St., NY, NY 10028. Tel. (212) 348-3500</p>
+                <p>Graduate and Faculty, American Institute for Psychoanalysis ; Chief of Psychiatry, Schervier Home & Hospital; private practice.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marianne Horney Eckardt, M.D.</v-card-title>
+                <br />
+                <p>(U. of Chicago)</p>
+                <p>3066 A Via Serena South, Laguna Hills, CA 92653-2580. Tel. 714-581-4442. E-mail: meck@fea.net</p>
+                <p>Former President of the American Academy of Psychoanalysis; Former Associate Clinical Professor of Psychiatry, New York Medical College.</p>
+                <p>Editor, The Adolescent Diaries of Karen Horney. Author of numerous papers in major psychoanalytic journals on dreams, the history of psychoanalysis, the history of organizational schisms, changes in theory and technique, and the contributions of the neo-Freudian group, particularly those of Erich Fromm. These include: (1) "Organizational Schisms in American Psychoanalysis," in American Psychoanalysis: Origins and Development, ed. Jacques M. Quen and Eric T. Carlson (NY: Brunner/Mazel, 1978); (2) "The Core Theme of Erich Fromm's Writings and Its Implication for Therapy," J. of the Amer. Academy of Psychoanal., 11 (1983), 391-399; (3) "Psychoanalysis is Alive and Well: Meeting the Challenges of Diversity," J. of the Amer. Academy of Psychoanal., 16 (1988), 417-430; (4) "Feminine Psychology Revisited: A Historical Perspective," AJP, 51 (1991), 235-243.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Patricia R. Eldredge, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Michigan State U.)</p>
+                <p>1641 Scheffer Ave., St. Paul, MN 55116. Tel. (612) 699-0088</p>
+                <p>"Patricia Eldredge studied with Bernard Paris at Michigan State University; her doctoral dissertation was a Horneyan study of Samuel Richardson's Clarissa. She has published articles applying Horney's psychology to the novels of Richardson, Charles Dickens, and Doris Lessing." At present Dr. Eldredge is Adjunct Assistant Professor of English and Graduate Liberal Studies at Hamline University, St. Paul, MN. For the essays mentioned, see AJP Vols. 42 (1982) & 49 (1989) and Third Force Psychology and the Study of Literature, Ed. B. J. Paris. Her latest contribution to Horneyan studies is "Marlene, Maggie Thatcher, and the Emperor of Morocco: The Psychic Structure of Caryl Churchill's Top Girls," a paper delivered at the IPSA Conference on "Psychoanalyses, Feminisms," April, 1994, and scheduled for publication in the forthcoming conference volume.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-card class="long-card">
+            <v-card-title class="h4">Franz R. Epting, Ph.D.</v-card-title>
+            <br />
+            <p>(Psychology, Ohio State U.)</p>
+            <p>9310 NW 10th Place, Gainesville, FL 32607. Tel. 904-332-5690.</p>
+            <p>Professor of Psychology, University of Florida; visiting appointments at Ohio State University, State University of Utrecht (Netherlands), and the University of London. Fellow of the American Psychological Association in Counseling Psychology, Humanistic Psychology, and Psychotherapy. Member of the Southeastern Psychological Association, North American Personal Construct Network, Council of Counseling Psychology Training Programs. Editor of the John Wiley & Sons series on Psychotherapy and Counseling and Co-editor for the Clearinghouse for Personal Construct Theory and Research.</p>
+            <p>"I am most interested in the work of Karen Horney and the development of humanistic psychology. Within this general area my concerns focus on the following topics: 1. Horney's contribution to humanizing our understanding of 'psychopathology.' 2. A more complete understanding of Horney's concept of the Real Self and how it relates to the structures and processes described in the Self Theories in Humanistic psychology. 3. A general exploration of the common ground between Horney and the work of George Kelly in his Psychology of Personal Constructs--specifically the contributions they both made in helping us to understand what it means to have a profound interest in the nature of an adult unconscious which cannot be reduced to a set of infantile concerns."</p>
+          </v-card>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">James Fadiman, Ph.D.</v-card-title>
+                <br />
+                <p>(Stanford)</p>
+                <p>1070 Colby Ave., Menlo Park, CA 94025. Tel. (415) 321-5590. Fax: 415-321-5633</p>
+                <p>Adjunct Full Professor, Institute of Transpersonal Psychology. Writer, Consultant, Educator. Co-editor of Personality and Personal Growth, a textbook with a substantial chapter on Karen Horney.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Anne Marie Fox</v-card-title>
+                <br />
+                <p>410 W. 44th St., #6, New York, NY 10036.</p>
+                <p>Actress, 10 years off-off Broadway plays, one film, three TV commercials.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Judith Fox-Fliesser, M.D.</v-card-title>
+                <br />
+                <p>(Universidad Autonoma de Tamaulipas, Mexico)</p>
+                <p>3135 Fairfield Ave., Bronx, NY 10463. Tel. 718-796-1767. E-mail: judyandjeff@surfree.com [updated 2001]</p>
+                <p>Attending Psychiatrist, Eastern Long Island Hospital, Greenport, NY; Psychoanalyst in training, American Institute for Psychoanalysis; private practice.</p>
+                <p>"I completed my psychiatry residency in June, 1991. I went to medical school after having worked as a sculptor and a graphic artist for about fifteen years. I went to medical school in Mexico and came to love that country. I like things that help me see things clearly (from an intellectual as well as from a visual point of view). I like medicine, biology, the visual arts, and poetry. I also like things that help me to bear the joys of life as well as enjoy its suffering. I like friendship, psychoanalysis, dance. I became involved in Horney's thought through being in treatment with a therapist who was involved with Horney. I am presently a candidate at the AIP and am exploring in what way her thought will be useful to me in my work."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Florence Friedman, B.A.</v-card-title>
+                <br />
+                <p>145 E. 15th St., Apt. 5E, NY, NY 10003. Tel. (212) 677-3694</p>
+                <p>Advanced courses in Psychology at the New School; acting training at the HB Studios; American Marketing Association; Actors Equity; Editorial Board, Marketing Review; Board of Directors, Soho Repertory Theatre. Focus group and individual in-dept interviewing for marketing purposes; individual career counseling.</p>
+                <p>"I have a particular interest in the application of Horney theory to the study of film."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Norman Friedman, Ph.D.</v-card-title>
+                <br />
+                <p>(English), M.S.W.</p>
+                <p>33-54 164th St., Flushing, NY 11358-1442. Tel. (718) 353-3631</p>
+                <p>Professor Emeritus of English, Queens College, CUNY; Gestalt Psychotherapist; Writer.</p>
+                <p>"Fritz Perls was once in treatment with Horney and used much of what he gained from her in developing Gestalt therapy. I myself have used Horney in the course in Literature and Psychology I used to teach, with particular reference to feminine psychology. My own special interest right now is in developing my workshop in Poetry and Gestalt, out of which I hope will evolve a book or two."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Rita Estelle Frucht</v-card-title>
+                <br />
+                <p>2 Ellwood St., Apt. 5G, New York, NY.</p>
+                <p>"Dr. Karen Horney helped to save my life through her writings and a time when she told me on the telephone, 'You have caught the meaning of my work.' I am an original member of the ACAAP. I have been an actress and a secretary. As a senior citizen, I am attending Hunter College and have recently been on the radio--acting again--as a member of the Manhattan Radio Group. One must go on learning forever!"</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Giselle Galdi, Ph.D.</v-card-title>
+                <br />
+                <p>(Psychology, N.Y.U.)</p>
+                <p>219 East 69th St., 1J, New York, NY 10021. Tel. (212) 628-8645</p>
+                <p>Faculty, Karen Horney Psychoanalytic Institute and Center; Director, Victim Treatment Center, Karen Horney Clinic.</p>
+                <p>Major interest: exploration of contribution of Horney theory to the subject of "Psychic Trauma."</p>
+                <p>[2001] Editor of The American Journal of Psychoanalysis</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Jerry R. Gathmann, B.A.</v-card-title>
+                <br />
+                <p>(Psychology, U. of Washington)</p>
+                <p>2615 Meadow Ave. North, Renton, Washington 98056. Tel. (206) 228-5622</p>
+                <p>"I am a lay-person who was introduced to Horney's work in college 23 years ago. I will never forget that day, place, or time. I was amazed at the lack of information about her at the time and the lack of public awareness of her work, so I am very pleased that all the published work on Horney is coming out. I have often felt alone in my enthusiasm for Horney in this part of the country. I have recently become interested in Zen."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Rhoda Geisler</v-card-title>
+                <br />
+                <P>49 Bolivar St., 1-R, Staten Island, NY 10314. Tel. (718) 982-5251</P>
+                <p>"My interest in Horneyan theory is mostly for the purpose of improving my own life. In this endeavor, I have found the books of both Karen Horney and Theodore Isaac Rubin to be truthful and invaluable. I welcome the opportunity to discuss and share the struggles involved in self-acceptance and self-understanding."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Joann Gerardi, Ph.D.</v-card-title>
+                <br />
+                <p>320 West 86th St., 7B, New York, NY 10024</p>
+                <p>President, American Institute for Psychoanalysis; Faculty, Training and Supervising Analyst, AIP; private practice.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Johanna Ghei, Ph.D.</v-card-title>
+                <br />
+                <p>(Counseling Psychology, University of Wisconsin)</p>
+                <p>2110 Bascom St., Madison, WI 53705. Tel. 608-233-5261</p>
+                <p>Psychotherapist. Research in history of women in psychology and the psychology of women. Dissertation: An Analysis of the Emergence and Development of the Concept of the Real Self in the Writings of Karen Horney. Available from UMI--University Microfilms Inc.--dissertation publication #9331259, University of Wisconsin-Madison. Inquiries welcomed. Psychotherapist, Women's Psychotherapy Center of Wisconsin, 16 N. Carroll St., Suite 710, Madison, WI 53703. Tel. 608-255-4747.</p>
+                <p>"My dissertation is a critical analysis of the development of Karen Horney's work, in particular her concept of the real self. I am interested in the meaning of this concept from various perspectives--such as the personal meanings it held for Horney herself, the development of its meanings and theoretical role in her theories, its uses in her therapeutic approach. I explore also Horney's development of the meanings of the experienced real self or of being oneself--for instance, of wholeheartedness, of being in the present moment--and the relation of this development to her interest in Zen. My work examines connections between the evolutionary process of the idea of the real self and Karen Horney's creative process in working out her philosophy, theories, concepts, and therapeutic approach. Another focus of my interest is how the development and underpinnings of Horney's later work are related to her early work in feminine psychology."</p>
+                <P>Work address: Women's Psychotherapy Centre of Wisconsin, 16 N. Carroll St., Suite 710, Madison, WI 53703. Tel. 608-255-4747.</P>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Betty Glad, Ph.D.</v-card-title>
+                <br />
+                <p>(U. of Chicago)</p>
+                <p>1317 Belmont Dr., Columbia, SC 29205. Tel. Home: (803) 787-8452; U. of S. Carolina: (803) 777-4544</p>
+                <p>Professor of Government and International Studies at the U. of South Carolina. Past President, International Society of Political Psychology. Has used Horney in Charles Evans Hughes: The Illusions of Innocence (U. of Illinois Pr., 1966) and Jimmy Carter: In Search of the Great White House (Norton, 1980). Currently using Horney to describe the personalities of some of the chairmen of the U.S. Foreign Relations Committee, 1924-74. A leading exponent of the use of psychoanalytic insight in the study of political figures.</p>
+                <p>"I have found that many people respond to this kind of work with considerable ambivalence. Because Horney explains so many of us, and because the data relevant to character structure is more readily accessible than data on sexual functioning, etc., such works are often greeted as more 'balanced' than most psychobiographies. But because the analysis often strikes so close to home for many of us, it is sometimes blatantly misinterpreted and dismissed as 'psycho-baloney.'"</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Robin Steier Goldberg, Ph.D.</v-card-title>
+                <br />
+                <p>(Clinical Psychology, Fordham U)</p>
+                <p>1349 Lexington Ave., New York, NY 10128. Tel. (212) 348-8065</p>
+                <p>Graduate, Training and Supervising Analyst, American Institute for Psychoanalysis; Book Review Editor, American Journal of Psychoanalysis.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Rose Gramalia, B.A.</v-card-title>
+                <br />
+                <p>(Psychology)</p>
+                <p>1123 Mainsail Circle, Palm Harbor, FL 34685. Tel. 813-786-5982</p>
+                <p>Working on M.A. in Applied Psychology; interning at the Manors, a private psychiatric hospital in Tarpon Springs, Florida.</p>
+                <p>"Recently left Los Angeles and a career in the entertainment industry as talent manager, script developer, and writer in order to pursue graduate studies in psychotherapy. Because of first-hand knowledge and experience, I am aiming toward a high-functioning, creative population with particular emphasis on the therapeutic process involving the narcissistic personality type, which is the subject of the research I am doing at the present time."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Samuel I. Greenberg, M.D.</v-card-title>
+                <br />
+                <p>(U. of Chicago)</p>
+                <p>2715 NW 21st St., Gainesville, FL 32605. Tel. (904) 378-5854</p>
+                <p>Graduate American Institute for Psychoanalysis; Clinical Professor of Psychiatry, University of Florida; Consultant in Psychiatry, Veterans Administration.</p>
+                <p>Author: Neurosis Is a Painful Style of Living, New American Library, 1971, 1977.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Rachel Grey, B.A.</v-card-title>
+                <br />
+                <p>(English, Carleton College), B.S. (Elementary Ed., U. of Minnesota)</p>
+                <p>19 N 15th St., #48, Minneapolis, MN 55403. Tel. 612-371-9469</p>
+                <p>Elementary school teacher making a career change. "I like Karen Horney because she seems to believe that human beings are sinners but she likes them anyway. Her theories have an appreciation for how complex human beings really are. I think the idea of self-realization is absolutely essential, too, in order to lead a happy life."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Serge Hadjolian, Ph.D.</v-card-title>
+                <br />
+                <p>(Clinical Psychology, Long Island U.)</p>
+                <p>30 Central Park South Suite 8B, New York, NY 10019 (Office)</p>
+                <p>Tel. Office: (212) 371-9696; Home: (212) 644-2929</p>
+                <p>Graduate, American Institute for Psychoanalysis; President, Center for Self-­Analysis</p>
+                <p>"Born in Varna, Bulgaria, Serge came to this country at the age of 25, in 1969. After completing his doctorate, he entered training at the AIP, where he has served as a faculty member and as an Associate Psychoanalyst and a Supervisor of the Dynamic Psychotherapy Program of the Karen Horney Clinic. In 1985 he founded the Center for Self-Analysis, Inc., a facility that trains the lay individual how to recognize behavioral patterns that are caused by inner conflict, the goal being to unblock personality dynamics that adversely affect self-realization, physical health, and interpersonal relations. Serge has taught at the New School for Social Research and for over a decade has given Public Education Lectures at the Association for the Advancement of Psychoanalysis."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Norman N. Holland, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Harvard).</p>
+                <p>1607 N.W. 19th Circle, Gainesville, FL 32605. Tel. 904-377-0096.</p>
+                <p>Marston-Milbauer Professor of English, University of Florida. Training at Boston Psychoanalytic Institute (cert. 1966).</p>
+                <p>"I've been interested all my life in how and why people respond to books and dramas and events as they do. I've published eleven books of literary criticism of which The Dynamics of Literary Response (1968, 1979, 1989) and Poems in Persons (1973, 1975. 1989) are the best known and deal with people's responses to literature. The I (1985) is a purely psychological synthesis of ideas about human personality and development. In recent years, I've become interested in new ways people can express in more appealing forms the abstract ideas about, for example, literary criticism, forms such as personal essays, fiction, the Internet, hypermedia." Professor Holland's most recent publication is Death in a Delphi Seminar (a novel), SUNY Press, 1995.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Roberta C. Horn, B.A.</v-card-title>
+                <br />
+                <p>(U.C., Berkeley)</p>
+                <p>4 Oak St., Kennebunk, ME 04043 (Home)</p>
+                <p>175 W. 13th St., Apt 5A, New York, NY 10011 (Student Address).</p>
+                <p>Tel. (212) 691-2181</p>
+                <p>Professional photographer and former hospice director. Currently pursuing a Masters Degree in Psychology at the New School for Social Research and working as a Pre-Extern at the Bensonhurst Day Hospital. Has been President of Maine Women in the Arts.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Nathan M. Horwitz, M.S.W.</v-card-title>
+                <br />
+                <p>(Hunter College), C.S.W.</p>
+                <p>100 Bleecker St., 7D, New York, NY 10012. Tel. (212) 473-5556</p>
+                <p>Adjunct Faculty, American Institute for Psychoanalysis; private practice; consultant, Cornell University Family Life Program.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">James R. Huffman, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Michigan State U.)</p>
+                <p>8 Bradley Dr., Lancaster, NY 14086. Tel. (716) 681-8095</p>
+                <p>Professor of English at the State University of New York College at Fredonia. Horneyan publications include: (1) an analysis of Styron's Confessions of Nat Turner in Third Force Psychology and the Study of Literature, ed. Bernard Paris; (2) "A Psychological Critique of American Culture," AJP, 42 (1982); and (3) "Young Man Johnson," AJP, 49 (1989).</p>
+                <p>Book in progress: In Sickness and in Health: A Psychological Approach to U.S. History and Culture. "This book uses Horney's theories to explain a number of phenomena in American history and culture, and to argue that the personality disorders she identifies have influenced the history and formation of the society very deeply. Americans for the most part have lived in a threatening environment and have responded both individually and collectively with a clear search for glory, formation of idealized selves, and most often an expansive strategy for coping with life. The book traces this pattern in popular culture from movies to comic strips, in politics from Presidents to popular votes, in cultural institutions such as religion and business, and in history from the revolution to the present. Examples of individuals (such as Kennedy and Johnson in politics, Kirk Douglas and Marilyn Monroe in film) and of groups (such as the Mormons and political and economic bureaucracies), as well as historical and cultural trends, are used to support the basic argument."</p>
+                <p>Recent essay: "A Horneyan Approach to American Literature," in Dionysus in Literature: Essays on Literary Madness, ed. Branimir Rieger, Popular Press, 1994. [See Bulletin Board]</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Benjamin Hurewitz, M.D.</v-card-title>
+                <br />
+                <p>(Anderson College of Medicine, Scotland)</p>
+                <p>9095 Midland Avenue, Fair Lawn, NJ 07410. Tel. 201-796-3395</p>
+                <p>Private practice; Barnert Memorial Hospital, Patterson, New Jersey</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Douglas H. Ingram, M.D.</v-card-title>
+                <br />
+                <p>(NYU)</p>
+                <p>45 East 89th St., Apt. 9B, New York, NY 10028. Tel. (212)-289-4090. E-mail: DHIngramMD@aol.com</p>
+                <p>"I serve as a faculty member, Training and Supervising Analyst at the American Institute for Psychoanalysis of the Karen Horney Psychoanalytic Institute and Center and also serve in the same capacities at the Psychoanalytic Institute of the Department of Psychiatry and Behavioral Sciences of the New York Medical College, where I am Clinical Associate Professor of Psychiatry. I teach Horney theory to candidates at that Institute. I am a Fellow of the American Academy of Psychoanalysis."</p>
+                <p>Dr. Ingram is the author of many essays and editor of Karen Horney's Final Lectures (Norton, 1987). He is editor of The American Journal of Psychoanalysis. [2001: Dr. Ingram is now editor of the Journal of the American Academy of Psychoanalysis]</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Faye Michelle Jacob, M.A.</v-card-title>
+                <br />
+                <p>(Psychology, Fordham)</p>
+                <p>600 Columbus Ave., 3-M, New York, NY 10024. Tel. (212) 362-5432</p>
+                <p>Doctoral Candidate, Clinical Psychology Program, Fordham U. Psychology Extern, American Institute of Psychoanalysis.</p>
+                <p>"My clinical career has been varied to date, but I have always maintained an interest in psychoanalytically based clinical work. I was fortunate to secure a position in the externship program at the Karen Horney Psychoanalytic Center this year and to see patients in the Adult program. I am new to Horney theory but already have found it a perspective with which I feel quite comfortable, and I remain eager to learn more. I like Horney's optimism, her approach to cure, and her ideas about the solutions a person adopts in response to cultural and interpersonal pressures. She consistently reminds the reader of the importance of compassion and openness in the treatment of patients."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Constance A. Johannesson, Psy.D.</v-card-title>
+                <br />
+                <p>(Clinical Psychology, Antioch/New England Univ.)</p>
+                <p>133 Washington Road, Rye, N.H. 03870.</p>
+                <p>Post Doctoral Fellowship, Exeter/Portsmouth Mental Health Association. New Hampshire Psychological Organization. Portsmouth Group Psychotherapy. Specialization in Women's Issues: depression; self-esteem, survivors of abuse; eating disorder and relationship problems. Has been Staff Therapist, Seacoast Mental Health Center; Research Consultant, Stone Center, Wellesley College; Director of Supportive Services, Seacoast Mental Health Center.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Alan Kagan, M.D.</v-card-title>
+                <br />
+                <p>1100 E. Park Ave., Tallahassee, FL 32301. Tel. (904) 878-1141</p>
+                <p>Analytic training: Postgraduate Center for Mental Health, NYC. Private Practice, Tallahassee. Editorial Board, Journal of the American Academy of Psychoanalysis.</p>
+                <p>From the Newsletter of the American Academy of Psychoanalysis: "Alan Kagan, M.D., recently had a starring role in a Tallahassee 'little theatre' production of The Boys Next Door, a humorous look at the lives of four mentally disabled roommates. Alan, playing an older man with a severe neurosis, received rave reviews. The Tallahassee Democrat writes: 'Kudos have to go to Alan Kagan for his off-the-wall portrayal of the compulsive Arnold Wiggens. He plays his character like Heifetz plays his fiddle."'</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marcia Kagan</v-card-title>
+                <br />
+                <p>886 E. 93rd St., Brooklyn, NY 11236. Tel. (718) 257-2242</p>
+                <p>Student at Hunter College.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Coleen Karlsen</v-card-title>
+                <br />
+                <p>2212 Golden Blvd., Billings, MT 59102. Tel. 406-652-3879</p>
+                <p>Psychology major, Eastern Montana College. "Returning to school after 23 years in food industry and sales career."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Ronald J. Kastner, B.A.</v-card-title>
+                <br />
+                <P>(Rutgers)</P>
+                <p>115 East 9th St., 19E, New York, NY 10003.</p>
+                <p>President, Karen Horney Clinic. President, Capital Printing Systems, Inc. Theatrical producer, Broadway and off-Broadway.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">James F. Kelley, A.B.</v-card-title>
+                <br />
+                <p>(Yale), J.D. (U. of Chicago)</p>
+                <p>P. O. Box 105605, Atlanta, GA 30348-5605</p>
+                <p>Corporate lawyer, Georgia-Pacific Corporation. "I am interested in the application of Dr. Horney's work to my own life."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-card class="long-card">
+            <v-card-title class="h4">Harry Keyishian, Ph.D.</v-card-title>
+            <br />
+            <p>(English, NYU)</p>
+            <p>110 Burnham Parkway, Morristown NJ 07960. Tel. (201) 593-8710</p>
+            <p>Professor of English, Fairleigh Dickinson U. (Shakespeare, film, theatre); Director, Fairleigh Dickinson University Press; Coeditor, The Literary Review: A Quarterly Journal of International Writing. Author: The Shapes of Revenge: Victimization, Vengeance, and Vindictiveness in Shakespeare, Humanities Press, 1995.</p>
+            <P>"My interest in the application of psychoanalytic insights to literary and non-literary texts has led to some publications on Mary Shelley, Henry James, and William Shakespeare. A particular interest is the psychology of revenge. A current project involves the study of Renaissance books on the passions (and the psychology implicit in them), with relation to concepts of punishment and revenge."</P>
+            <p>Some relevant publications: "Karen Horney on the Value of Vindictiveness," AJP, 42 (1982); "Vindictiveness and the Search for Glory in Mary Shelley's Frankenstein," AJP, 49 (1989); "A Mind of Her Own," Review/Essay, Psychoanalytic Books, 2: 2 (Spring, 1991).</p>
+            <p>Current work in progress is a book about the image of the politician in American movies.</p>
+          </v-card>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Damian B. Kim, M.D.</v-card-title>
+                <br />
+                <p>(Seoul National University, Medical College)</p>
+                <P>365 Chestnut Drive, East Hills, NY 11576. Tel. (516) 621-4442</P>
+                <p>Graduate and Faculty member, American Institute for Psychoanalysis; Associate Director of Psychiatry, Coney Island Hospital, Brooklyn, N.Y.; Clinical Assistant Professor, SUNY Medical School, Brooklyn, N.Y.; private practice.</p>
+                <p>"Interests are psychoanalysis, hypnosis, Zen Buddhism, Transcultural psychotherapy, alcoholism, group and family therapy, golf, etc." Has presented papers on "Subjectivity and Objectivity in Psychotherapy," "Karen Horney's Real Self and Buddha Nature," "Hypnotherapy, Psychotherapy and Zen--The Scope of Human Concentration," and "Suitable Psychotherapy for Asian Americans."</p>
+                <p>Willing to help in setting up International Karen Horney Society in Korea and in spreading Karen Horney's theory in Korea.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Kristin O. Lauer, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Michigan State U.)</p>
+                <p>305 Riverside Dr., 12A, New York, NY 10025. Tel. (212) 865-7439</p>
+                <P>Associate Professor of English, Fordham U.; Board Member, Edith Wharton Society.</P>
+                <p>"I have been encouraging female (as opposed to strictly feminist) literary critics to use Karen Horney's theory of personality in their work. I have published several papers using Horney to interpret conflicts in characters (The Journal of Evolutionary Psychology), and I have introduced Horney to the audience at several conferences. My particular interest--and I would be very happy to hear from anyone working in this area--is to study the application of non-Freudian psychoanalytic theory to female writers. I have found in my extensive work on Edith Wharton that many feminists deplore Freud but see no practical alternatives for psychological criticism. I am looking for new approaches to women writers that use insights other than those from strictly feminist or Freudian perspectives.</p>
+                <p>I am currently finishing a study of relationships in Edith Wharton's fiction: Gallery of the Damned: Understanding Edith Wharton's Pessimism. I have compiled the new annotated bibliography of Edith Wharton studies (Garland, 1990), and I am an editor of Edith Wharton: Contemporary Reviews (Cambridge U.P., Spring, 1992). I am under contract with Norton for the Norton Critical Edition of Ethan Frome."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Joyce A Lerner, M.S.W.</v-card-title>
+                <br />
+                <p>301 East 79th St., 19A, New York, NY 10021. Tel. 212-517-7130</p>
+                <p>Training and Supervising Analyst, American Institute for Psychoanalysis; Director, Metropolitan Institute for Training in Psychoanalytic Psychotherapy; Associate Editor, The American Journal of Psychoanalysis.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Gayle Lewis</v-card-title>
+                <br />
+                <p>630 Gramatan Ave, 3F, Fleetwood, NY 10552</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Mary McConnell, A.C.S.W.</v-card-title>
+                <br />
+                <p>(Hunter College)</p>
+                <p>46-20 Parsons Blvd., Flushing, NY 11355</p>
+                <p>Graduate, American Institute for Psychoanalysis. In private practice, working with adults.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Cecilia Marcus, M.S.W.</v-card-title>
+                <br />
+                <p>102 W. 75th St. #40, New York, NY 10023. Tel. (212) 787-8876</p>
+                <p>Completed clinical and theoretical training at Metropolitan Institute for psychoanalytically oriented psychotherapy.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Jay Martin, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Ohio State U.); Ph.D. in Psychoanalysis (Southern California Psychoanalytic Institute)</p>
+                <p>18651 Via Palatino, Irvine, CA 92715. Tel. (714) 854-7905</p>
+                <p>Leo S. Bing Professor of English, U. of Southern California; Instructor in Psychoanalysis, Southern California Psychoanalytic Institute; Lecturer in Psychiatry and Human Behavior and Clinical Supervisor in Residency Program, U. of California, Irvine; novelist, playwright, private practice in psychoanalysis.</p>
+                <p>Author of books on Conrad Aiken, Nathaniel West, and Robert Lowell. Also Harvests of Change: American Literature 1865-1914 and Who Am I This Time: Uncovering the Fictive Personality (Norton, 1988). Books in Progress: John Dewey: A Liberal Life and Literature and the Life of Psychoanalysis.</p>
+                <p>"Karen Horney is my psychoanalytic great grandparent. I was analyzed by Louis A. Gottschalk who was analyzed by Henry B. Lee, who was analyzed by Karen Horney."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Dee Anna Merz, B.S.</v-card-title>
+                <br />
+                <P>(Mental Health and Human Services, Georgia State U.)</P>
+                <p>989 Autumn Crest Ct., Stone Mountain, GA 30083. Tel. (404) 299-7557.</p>
+                <p>"I am a student at the University of Georgia, completing my master's in rehabilitation counseling and plan to go on for a Ph.D. in clinical psychology. I was exposed to Karen Horney for the first time in an undergraduate theories of personality class. Through school, professional work, and personal counseling, I have identified myself as a counselor working out of a trauma theories approach. I am an avid fan of Alice Miller, and have discovered that in many ways she restates Horney's theories.</p>
+                <p>My professional interests center primarily around working with abuse survivors, particularly incest. I have attended workshops for additional clinical training in this area. I eventually hope to work with dissociative disorders. My experience thus far, especially in the world of academia, does not validate my core beliefs in relation to trauma theory. Brief and cognitive therapy are on the rise, primarily because of health insurance and the medical model as it exists today. I would be very interested in joining an organization that holds ideas similar to mine."</p>
+                <p>Member, American Counseling Association, Noetic Sciences, American Rehab Counseling Association.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Viktorija Mickans, M.D. D.D.S.</v-card-title>
+                <br />
+                <p>(University of München)</p>
+                <p>120 East 34th St., #147, New York, NY 10016-4613. Tel. (212) 696-5424</p>
+                <p>Graduate, American Institute for Psychoanalysis; Attending psychoanalyst, Beth Israel Medical Center, New York. Interests: Noetic sciences, Art, how ethnic, religious and political backgrounds influence character formation.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Alan G. Miller, M.D.</v-card-title>
+                <br />
+                <p>(University of Oregon)</p>
+                <p>1409 Valley Forge Way, Abingdon, MD 21009. Tel. (410) 538-4589</p>
+                <p>Karen Horney Institute, 1970. Director, Outpatient Mental Health Services, V.A. Medical Center, Perry Point, Maryland 21902.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Theodore Millon, Ph.D.</v-card-title>
+                <br />
+                <p>(University of Connecticut)</p>
+                <p>5400 SW 99th Terrace, Miami, FL 33156. Tel. (305) 661-8888.</p>
+                <p>Professor of Psychology, U. of Miami, and Professor in Psychiatry, Harvard Medical School. Has served on the American Psychiatric Association Task Force on Nomenclature and Statistics since it undertook development of the DSM-III in 1974 and is now working on the DSM-IV. Prime developer of two diagnostic self-report inventories, The Millon Clinical Multiaxial Inventory (MCMI) and the Millon Behavior Health Inventory (MBHI). President of International Society for the Study of Personality Disorders and co-editor of the Journal of Personality Disorders. Has written and edited more than 20 books, many of which discuss or make reference to Karen Horney. These include: Modern Psychopathology, Theories of Psychopathology and Personality, Approaches to Personality, Disorders of Personality: DSM-III: Axis II, and Toward a New Personology: An Evolutionary Model.</p>
+                <p>It was Ted Millon who introduced the director of the IKHS, Bernard Paris, to the theories of Karen Horney when they were colleagues at Lehigh University in the late 1950s.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Irving Laurice Mintz, M.S.W.</v-card-title>
+                <br />
+                <p>514 E. Ann St., Ann Arbor, MI 48104-1421. Tel. 313-741-1173</p>
+                <p>125 Oxford Place, S.I. New York, NY 10301. Tel. 718-448-8564</p>
+                <p>Certificates in Jungian Psychology, Creativity and Social Group Work, City University of New York; former faculty member, New School for Social Research; currently a student on the M.D. track in the Health Sciences Program, Donnelly College. Escape artist. Interested in shamanism, the meaning of magic, and the physician/magician archetypes. Member: International Association for the Advancement of Social Work with Groups, Association for Transpersonal Psychology, National Association of Social Workers.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Agnes A. N. O'Connell, Ph.D.</v-card-title>
+                <br />
+                <p>(Social Psychology and Personality, Rutgers U.)</p>
+                <p>50 Inglewood Lane, Matawan, NJ 07747. Tel. (908) 566-8069</p>
+                <P>Professor of Psychology, Montclair State College; Director, Honors Program in Psychology, Director, Community Psychology Program, Staff Member, Psychological Services, Montclair State College. Licensed Psychologist. Fellow, American Psychological Association.</P>
+                <p>Books (with N. F. Russo): Eminent Women in Psychology; Models of Achievement: Reflections of Eminent Women in Psychology, 2 volumes; Women in Psychology: A Bio-Bibliographic Sourcebook; Women's Heritage in Psychology: Origins, Development, and Future Directions.</p>
+                <P>Professor O'Connell is the author of the chapter on Karen Horney in Women in Psychology and of "Karen Horney: Theorist in Psychoanalysis and Feminine Psychology," Psychology of Women Quarterly, 5 (1980), 81-98. She has published many essays and chapters in books.</P>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Sharna Olfman, Ph.D.</v-card-title>
+                <br />
+                <p>(Psychology)</p>
+                <p>342 S. Highland Ave., 12A, Pittsburgh, PA 15206. Tel. (412) 361-2472</p>
+                <p>Psychologist in private practice; Assistant Professor, Department of Humanities and Behavioral Sciences, Point Park College, Pittsburgh.</p>
+                <p>"I am particularly interested in the application of Horney's work to the psychology of women. (I was most impressed with Marcia Westkott's superb book on the subject.) I have recently discussed Horney's work in the following papers: "Freud, Thompson, and Horney: Theories of Female Gender Development," "Freud's Theory of Female Gender Development: A Critical Review," and "Feminist Psychoanalytic Perspectives on Female Gender Development: A Historical and Theoretical Overview."</p>
+                <p>Recent publication: "Gender, Patriarchy and Women's Mental Health: Psychoanalytic Perspectives," Journal of the American Academy of Psychoanalysis, Vol. 2, no. 2 (Summer, 1994). The paper discusses Horney, Dinnerstein, and Chodorow.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marlene Gershman Paley, Ph.D.</v-card-title>
+                <br />
+                <p>(Union Graduate School)</p>
+                <p>48 Larkin St., Dix Hills, NY 11746. Tel. (516) 423-6932</p>
+                <p>Graduate and faculty member, American Institute for Psychoanalysis; Director, Long Island Center, Inc.; private psychoanalytic practice.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Eugene Papowitz, M.D.</v-card-title>
+                <br />
+                <p>(SUNY Downstate Medical Center)</p>
+                <p>979 High Mountain Road, Franklin Lakes, NJ 07417. Tel. (201) 891-2826</p>
+                <p>Graduate and Training and Supervising Analyst, American Institute for Psychoanalysis; staff member, The Valley Hospital, Ridgewood, N.J.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Shirley H. Paris, B.S.</v-card-title>
+                <br />
+                <p>(Education, Towson State)</p>
+                <p>1430 N.W. 94th St., Gainesville, FL 32606. Tel. (904) 332-7368</p>
+                <p>Office Manager, International Karen Horney Society. Has been interested in Karen Horney since 1958.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card" height="600px">
+                <v-card-title class="h4">Bernard J. Paris, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Johns Hopkins)</p>
+                <p>1430 N.W. 94th St., Gainesville, FL 32606. Tel. 352-331-6605 (after 12 noon). E-mail: bjparis@ufl.edu</p>
+                <p>Professor of English, U. of Florida; Past Director, Institute for Psychological Study of the Arts (IPSA); Director, International Karen Horney Society; Honorary Member, Association for the Advancement of Psychoanalysis; Scientific Associate, American Academy of Psychoanalysis; Member Editorial Board, The American Journal of Psychoanalysis.</p>
+                <p>Books using Horney: A Psychological Approach to Fiction: Studies in Thackeray, Stendhal, George Eliot, Dostoevsky, and Conrad (1974); Character and Conflict in Jane Austen's Novels (1978); Editor, Third Force Psychology and the Study of Literature (Fairleigh Dickinson U.P., 1986); Bargains with Fate: Psychological Crises and Conflicts in Shakespeare and His Plays (Plenum, 1991); Character as a Subversive Force in Shakespeare: The History and Roman Plays (Fairleigh Dickinson U.P., 1991).</p>
+                <p>Guest Editor, AJP, 49 (Sept. 1989), Interdisciplinary Applications of Horney.</p>
+                <p>Most recent book: Karen Horney: A Psychoanalyst's Search for Self-Understanding (Yale, 1994).</p>
+                <p>[2001] Imagined Human Beings: A Psychological Approach to Character and Conflict in Literature (NYU Press, 1997); Editor, The Therapeutic Process: Essays and Lectures by Karen Horney (Yale, 1999); Editor, The Unknown Karen Horney: Essays on Gender, Culture, and Psychoanalysis (Yale, 2000).</p>
+                <p>In progress: Rereading George Eliot: "Middlemarch" and "Daniel Deronda"</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Renate Horney Patterson</v-card-title>
+                <br />
+                <p>3041-B Via Serena South, Laguna Hills, CA 92653-2718. Tel. (714) 859-8423. E-mail: RHP1129@aol.com</p>
+                <p>[2001]Author of Lazarus, What's Next? Includes many reminiscences of her mother, Karen Horney. Portions posted on this website.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Henry A. Paul, M.D.</v-card-title>
+                <br />
+                <p>1148 5th Ave., New York, NY 10028. Tel. (212) 289-8004. E-mail: HAPMD@aol.com</p>
+                <p>Director, Karen Horney Clinic; private practice.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Herbert M. Perr, M.D.</v-card-title>
+                <br />
+                <p>(Tulane Medical School)</p>
+                <p>444 N. Long Beach Road, Rockville Centre, NY 11570. Tel. (516) 766-4741</p>
+                <p>Graduate and Faculty Member, American Institute for Psychoanalysis; Associate Professor, Clinical Psychology, SUNY, Stony Brook; Emeritus Staff, Department of Psychiatry, South Nassau Communities Hospital; columnist and contributing editor, Newsletter, Nassau Psychiatric Society.</p>
+                <p>Prior academic appointments: New School for Social Research; Postgraduate Center for Mental Health, NYC; Long Island Institute of Psychoanalysis.</p>
+                <p>Author of numerous articles and book reviews.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Sergio Pirrotta, Ed.D.</v-card-title>
+                <br />
+                <p>(Counseling Psychology, U. of Massachusetts)</p>
+                <p>802 Summer St., Manchester-by-the-Sea, MA 01944. Tel. 508-526-4146</p>
+                <p>Psychotherapist, Exeter-Portsmouth Mental Health Associates, Exeter & Portsmouth, NH; Associate Professor, Doctoral Program in Clinical Psychology, Antioch/New England Graduate School, Keene, NH.</p>
+                <p>Author of several articles and, with L. Fruggeri, of L'Approccio Sistemico-relazionale nel Servizio Sociale Publico: Atti del Seminario di Parma, Novembre, 1984 (Universita di Parma, 1986).</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Isidore Portnoy, M.D.</v-card-title>
+                <br />
+                <p>(Dalhousie U.) [deceased]</p>
+                <p>118 West 79th St., New York, NY 10024. Tel. (212) 874-0206</p>
+                <p>Graduate, American Institute for Psychoanalysis; former Associate Dean; Co-founder, Karen Horney Clinic; private practice in psychoanalysis.</p>
+                <p>"I was a personal admirer of Horney and a strong believer in her theories."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Mrs. Zuvart Prestopino</v-card-title>
+                <br />
+                <p>10224 Conover Drive, Silver Spring, MD 20902</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Michelle Price, C.S.W.</v-card-title>
+                <br />
+                <p>(M.S.W., Yeshiva U.)</p>
+                <p>777 W. End Ave, 7E, New York, NY 10015. Tel. (212) 628-2646 (office)</p>
+                <p>Graduate, Faculty Member, and Supervisor, American Institute for Psychoanalysis; Director, Treatment Center for Incest and Family Violence, Karen Horney Clinic; Clinical Supervisor, Rape Crisis Program, Mt. Sinai Hospital; Faculty, International Association of Trauma Counselors; private practice.</p>
+                <p>"I am founder and Director of the Treatment Center for Incest and Family Violence. This program is unique in that it utilizes a Horneyan orientation, in conjunction with other trauma theories, in providing specialized treatment to men and women who have survived incest, child sexual abuse, and family violence."</p>
+                <p>Recent papers employing Horney: "The Psychoanalysis of an Incest Survivor: A Case Study," AJP; "The Impact of Incest on Identity Formation in Woman," Journal of the American Academy of Psychoanalysis. Forthcoming papers: "Knowing and Not Knowing: Paradox in the Construction of Historical Narratives," in Delayed Memories of Childhood Abuse: Essential Papers for Clinicians, ed. J. Alpert; and "Horney's Counter-Discourses: Contemporary Applications," in Psychoanalytic Versions of the Human Condition, ed. Mercer and Rosenberg.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Stephen M. Remen, M.D.</v-card-title>
+                <br />
+                <p>(Guadalajara)</p>
+                <p>51 Fifth Ave., 4B, New York, NY 10003. Tel. (212) 255-5165</p>
+                <p>Graduate, Faculty Member, and Supervising Analyst, American Institute for Psychoanalysis; Faculty, Mt. Sinai School of Medicine; Assistant Attending Psychiatrist, Beth Israel Medical Center; private practice in psychiatry, psychotherapy, psychoanalysis; B.A. and M.A. in Art History (Columbia); writes and lectures on psychodynamics and art, creativity.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Mario Rendon, M.D.</v-card-title>
+                <br />
+                <p>333 E. 30th St., New York, NY 10016</p>
+                <p>Graduate, American Institute for Psychoanalysis. Past editor, American Journal of Psychoanalysis. Director, Dept. of Psychiatry, Lincoln Hospital. Professor of Clinical Psychiatry, New York Medical College.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Branimir M. Rieger, Ph.D.</v-card-title>
+                <br />
+                <p>(English, University of Maryland)</p>
+                <p>936 Sunset Drive, Greenwood, SC 29646. Tel. 803-223-7977</p>
+                <p>Professor, Division of Humanities, Lander University, Greenwood, SC.</p>
+                <p>"I have edited a book, Dionysus in Literature: Essays on Literary Madness, published by Popular Press in 1994. Contributed an introduction to the use of the term "madness in literature" and a chapter on how to teach a course on this topic. Other essays deal with concepts of madness and literary theory, clinical madness in writers, madness in film, mad scientists, the institution in American fiction. There are essays on Dostoevsky, Shakespeare, Blake, Woolf, Melville, Faulkner, Vonnegut, and Stephen King. There is also an essay by James Huffman entitled "A Horneyan Approach to American Literature."</p>
+                <p>"Interests: psychological criticism, vampire literature, sports, classical music; modern alternative and grunge music; development of Croatian democracy and the new literature coming out of the democracy (I was born in Croatia); collecting old books, especially travel books and travel guides, like the Baedekers and WPA Guides."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Paul Roazen, Ph.D. (Harvard)</v-card-title>
+                <br />
+                <p>Emeritus Professor of Social and Political Science, York University, Toronto. Author of numerous books on the history of psychoanalysis. These include Brother Animal: The Story of Freud and Tausk, Freud: Political and Social Thought, Freud and His Followers, Helene Deutsch: A Psychoanalyst's Life, Encountering Freud: The Politics and Histories of Psychoanalysis, and Meeting Freud's Family.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Ona L. Robinson, Ph.D.</v-card-title>
+                <br />
+                <p>12 Windward Ave, White Plains, NY 10605. Tel. 914-682-0967</p>
+                <p>Clinical psychologist; certified psychoanalyst. Affiliated with the Postgraduate Center for Mental Health.</p>
+                <p>"My colleague Dr. Edward Stephens and I have worked together in the area of Competition Theory, which springs naturally from Horney's interest in the influence of culture upon personality. Some of the strategies she has described can be seen as pseudo adaptations to the power struggles and control battles that go on within the family. Since competition is in the air we breathe but conflicts with the value we place on highly affiliative relationships, the struggle to evolve a system to deconstruct unhealthy competitive mindsets is an important one. Moving away from highly competitive positions has the reward of richer and closer connections both within ourselves and between ourselves and others. I should be delighted to hear from any interested people with views on this subject."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-card class="long-card">
+            <v-card-title class="h4">Jeffrey Rubin, M.D.</v-card-title>
+            <br />
+            <p>(Medical College of Virginia)</p>
+            <p>51 E. 90th St., New York, NY 10128. Tel. (212) 831-6152</p>
+            <p>Dean, American Institute for Psychoanalysis; private practice; author and editor.</p>
+          </v-card>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Mark Rubin</v-card-title>
+                <br />
+                <p>(M.F.A., English, U. of Montana; M.S.W., NYU)</p>
+                <p>468-A North St., Burlington, VT 05401</p>
+                <p>Certified Social Worker, New York State. "A former English teacher and principal of a junior high school, I am also committed to writing. My first book of poems, The Beginning of Responsibility, was published in the Fall of 1992 [available from Owl Creek Press, 1620 N. 45th St., Seattle, WA 98103, or directly from the author]. Currently I am revising my second book of poems, Errors on the Side of Justice, as well as the libretto to a one-act chamber opera."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Theodore Isaac Rubin, M.D.</v-card-title>
+                <br />
+                <p>(U. of Lausanne)</p>
+                <p>219 E. 62nd St., New York, NY 10021. Tel. (212) 308-0173</p>
+                <p>Graduate, Training and Supervising Analyst, President of Board of Trustees, past President, American Institute for Psychoanalysis; Psychoanalyst and Member of Medical Board, Karen Horney Clinic; former faculty member, Downstate Medical School, Brooklyn, NY, New School for Social Research.</p>
+                <p>Many awards and talk show appearances.</p>
+                <p>Author of numerous articles and about thirty books, including Lisa and David (made into a film); The Thin Book by a Formerly Fat Psychiatrist; The Angry Book; Dr. Rubin, Please Make Me Happy; Compassion and Self-Hate; One to One; Anti-Semitism: A Disease of the Mind; Real Love; and Child Potential.</p>
+                <p>Recent essay: "The Kinetic Mind," AJP, 51 (1991), 351-367.</p>
+                <p>Book in progress: The Kinetic Mind: Perceptions, Reflections, Speculations and Questions on the Human Mind.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Morton S. Rucker, M.D.</v-card-title>
+                <br />
+                <p>(Dalhousie School of Medicine)</p>
+                <p>5053 Old Hickory Circle, Marianna, FL 32466</p>
+                <p>Graduate, American Institute for Psychoanalysis. Retired; volunteer for Florida State Hospital.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Peter L. Rudnytsky, Ph.D.</v-card-title>
+                <br />
+                <p>(English, Yale)</p>
+                <p>Department of English, University of Florida, Gainesville, FL 32611</p>
+                <p>Professor of English; Conference Director, Institute for Psychological Study of the Arts (IPSA), University of Florida.</p>
+                <p>Author, Freud and Oedipus; The Psychoanalytic Vocation: Rank, Winnicott, and the Legacy of Freud.</p>
+                <p>"I have discovered Horney thanks to my esteemed friend and colleague, Bernard Paris. I am especially interested in Horney's feminist ideas, her critique of Freud, and the autobiographical elements in her writing."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Veronica Ryan, A.A.S.</v-card-title>
+                <br />
+                <p>(Fashion Design)</p>
+                <p>77 Fulton St. #24, New York, NY 10038. Tel. (212) 571-7477</p>
+                <p>In B.S. program in Psychology, CUNY.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Edward Schattner, M.D.</v-card-title>
+                <br />
+                <p>(U. of Vienna)</p>
+                <p>160 E. 55th St., 2-D, New York, NY 10022. Tel. (212) 877-2014</p>
+                <p>Graduate, Faculty Member, Training and Supervising Analyst, American Institute for Psychoanalysis; Member, Editorial Committee for Horney's Feminine Psychology.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Nancy Engbretsen Schaumburger, Ph.D.</v-card-title>
+                <br />
+                <p>(English, NYU); Certificate in Psychoanalysis, NJITP</p>
+                <p>78 Westervelt Pl., Cresskill, NJ 07626. Tel. (201) 567-7383</p>
+                <p>Teaches literature in English and interdisciplinary courses on literature and psychology at Manhattanville College, Purchase, N.Y. A member of the International Iris Murdoch Society and a literary advisor to the International Dickens Fellowship. Writes on literary and psychological topics.</p>
+                <p>"I am a Professor of English specializing in the Victorian period and a formally trained psychoanalyst of ten years' practice. My chief interest is Dickens, on whose fiction I have published articles in The Dickensian, in Victorian encyclopedias, and elsewhere. I am now working on a book which focuses on time-perception in some of the major novels. All my literary criticism is psychological in approach.</p>
+                <p>I am interested in the application of Horneyan ideas to some of the fiction of Dickens, Hurston, and Murdoch. I would like to meet colleagues with any similar interests, with a view towards possible collaboration."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Robert N. Shorin, A.C.S.W.</v-card-title>
+                <br />
+                <p>(Barry U.)</p>
+                <p>85 Cold Spring Rd., Syosset, NY 11791. Tel. (516) 364-1318</p>
+                <p>Graduate, American Institute for Psychoanalysis; Councilor, Executive Council, Association for the Advancement of Psychoanalysis; Vice President, Executive Board, Karen Horney Clinic.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card" height="700px">
+                <v-card-title class="h4">Jeffrey J. Silverstein, M.S.</v-card-title>
+                <br />
+                <p>(Mass Communications, Syracuse U.)</p>
+                <p>175 Fordham St., City Island, NY 10464</p>
+                <p>Currently studying dramatic acting and directing, Lee Strasberg Theater Institute; independent studies in screenwriting and dramatic theory at NYU, New School, American Film Institute; Member, American Film Institute, the Academy of Magical Arts.</p>
+                <p>"I am a screenwriter and independent consultant. I have acted as producer, director, and writer of corporate films, videotapes and interactive videodiscs for clients such as IBM, AT&T, Sony, U.S. Department of Education, SmithKline, and Miles Pharmaceuticals.</p>
+                <p>I was introduced to the writings of Karen Horney by Dr. Milton Berger. In the course of my dramatic writing projects I found that her profound insights into character helped in the creation and polishing of scripts. Reading Dr. Bernard Paris's work has also been helpful.</p>
+                <p>As a student of dramatic theory, it has been clear to me that 'drama is conflict.' The dramatic effect, often culminating in what Aristotle called catharsis, is based upon an audience member identifying with a protagonist and vicariously traveling with him on a quest to find his 'real self' in the face of obstacles. Well-crafted drama is a 'gymnasium for the emotions' of the audience, giving them a chance to exercise their tears, laughter, fright, and flight.</p>
+                <p>I am particularly interested in how emotional effects are achieved in the audience. I have a lifelong interest in magic, and have worked on the question of why people will always need a 'magic' to believe in, and what is entertaining about it. The late Slydini, considered one of the patriarchs of modern close-up conjuring, was one of my teachers.</p>
+                <p>Psychoanalysis has clearly had a strong influence on 20th century drama. Jung is useful for grasping drama's mythic nature, and drama has often been fraught with Freudian conflicts and symbolism. I have found that Horney's work offers the clearest and most practical way to look at dramatic characters.</p>
+                <p>I should like to hear from anyone involved in the Horneyan analysis of drama. I am particularly interested in analyses of popular motion pictures. Stage drama is of interest as well, as is any theoretical work on audience psychology.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Jane Simon, M.D.</v-card-title>
+                <br />
+                <p>(Temple University)</p>
+                <p>145 Central Park West, Suite 1A, New York, NY 10023. Tel. (212)-877-3566</p>
+                <p>Medical Director, Blanton-Peale Counseling Center; Faculty, Columbia University; Assistant Attending, Dept. of Psychiatry, St. Lukes'/Roosevelt Medical Center; Associate Attending, Out Patient Service, Child and Adolescent Division, St. Lukes'/Roosevelt Medical Center; Faculty, Blanton-Peale Graduate Center.</p>
+                <p>Author of many essays, reviews, and poems, and of Incisions, a book of poetry. Appointed editor of the Academy Forum in 1995.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Barbara Smalley, Ph.D.</v-card-title>
+                <br />
+                <p>(Comparative Literature, U. of Illinois); M.A. French</p>
+                <p>1006 South Busey, Urbana, IL 61801. Tel. (217) 344-5520</p>
+                <p>Associate Professor of English, U. of Illinois.</p>
+                <p>"In teaching a course in Literature and Psychology, I find Horney's concepts concerning mental health and growth to be especially valuable. We study literary characters who have become alienated from their real selves and are committed to trying to actualize a false, glorified self. We discuss the kinds of defensive strategies these characters employ while they are subject to the 'tyranny of the should.' An example of a character who primarily 'moves away' from other people is Dolly Urquhart in D. H. Lawrence's 'The Princess.' [See "Lawrence's 'The Princess' and Horney's 'Idealized Self'" in Third Force Psychology and the Study of Literature, ed. B. J. Paris.] We also analyze characters who move toward and/or against others. Horney's concepts are invaluable for providing new insights into works of literature."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Jeanne Smith, M.D.</v-card-title>
+                <br />
+                <p>(N.Y. Medical College)</p>
+                <p>210 East 73rd St., New York, NY 10021. Tel. (212) 737-7557</p>
+                <p>Graduate, Training and Supervising Analyst, Faculty, American Institute for Psychoanalysis; Clinic Supervisor, Karen Horney Clinic; Executive Committee, Karen Horney Clinic Board; Director of Film Program, Association for the Advancement of Psychoanalysis; International Lecturer on Horney theory in Malaysia & Indonesia (Jakarta, Surabaya, Bali). Chair for Southeast Asia, International Karen Horney Society.</p>
+                <p>Past President, Association for the Advancement of Psychoanalysis; Past President, N. Y. State Women's Medical Society. Lectured on Horney theory at the National University of Mexico and ANÁHUAC University in Mexico City, August 15-19, 1994.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card" height="550px">
+                <v-card-title class="h4">Peter Jay Stein, M.D.</v-card-title>
+                <br />
+                <p>233 Hempstead Ave., Rochelle Centre, NY 11570. Tel. (516) 764-4286</p>
+                <p>B.A. and M.A. in philosophy. Board certified psychiatrist (1987). Newsletter editor and Secretary, Nassau Psychiatric Society (now the Greater Long Island Psychiatric Society). Psychiatric Associate, American Academy of Psychoanalysis. Full time private practice.</p>
+                <p>"During my training and work, although I learned to appreciate the fundamental Freudian concepts of the unconscious, internal conflict, free association, etc., I felt unclear about my direction and goals with my patients, and I felt myself becoming uninterested, disenchanted, and disillusioned. I had initially felt enthusiastic, but a feeling of emptiness began to erode my satisfaction in the work of psychotherapy. I did not feel at home with other theorists, and I felt even less comfortable with the evolving jargon of psychoanalysis. This was a serious crisis for me, since I had chosen psychoanalytical understanding as my life's work.</p>
+                <p>It was when I sought supervision in 1993 from Herbert M. Perr, M.D., a member of the IKHS, that he introduced me to the general principles of Horney, with particular emphasis on Neurosis and Human Growth. With Dr. Perr's guidance, Horney's ideas have given me a map of mental functioning which I find extremely useful for myself and my patients.</p>
+                <p>With Horney, I have experienced a deep sense of hope, a beacon in the darkness, a potential for a certain wholeness of understanding. She seemed to be in touch with her own inner reservoir of aliveness, an internal well of boundless energy that becomes available as the encumberments of the neurotic structure fall away. Her teachings have helped me to begin to break through the rigidity in my approach to myself and others, and have helped me to reach toward my own inner reservoir of genuine feelings."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Stephanie Steinfeld, Ph.D.</v-card-title>
+                <br />
+                <p>[deceased]</p>
+                <p>400 East 58th St., New York, NY 10021. Tel. (212) 755-8729</p>
+                <p>Graduate and Faculty, American Institute for Psychoanalysis.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Edward M. Stephens. M.D.</v-card-title>
+                <br />
+                <p>169 E. 74th St., Garden Suite, New York, NY 10021. Tel. (212) 794-8617</p>
+                <p>Full time practice of psychiatry and psychoanalysis.</p>
+                <p>"I am currently working to develop a body of work on 'Competition Theory.' A fundamental part of that study involves the description of a new personality disorder--'The Competitive-Comparative Personality'--described in a presentation at the American Academy of Psychoanalysis in 1989. Cognitive attitudes and mental constructs that involve competitive and acompetitive mindsets are being described and treated from the vantage point of competitiveness in an attempt to develop postmodern approaches to the resolution of inner conflict.</p>
+                <p>Those who are interested may request papers and are welcome to join in a dialogue that I feel sprang from Horney's work."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Randall Kei Sugawara, M.A.</v-card-title>
+                <br />
+                <p>(Counseling Psychology)</p>
+                <p>P.O. Box 2651, Sausalito, CA 94966-2651. Tel. (510) 444-5258</p>
+                <p>Ph.D. candidate at the Professional School of Psychology, San Francisco, CA. Psychotherapy treatment for phobias and anxiety disorders, psychological and neurological evaluations, mental status exam, and report writing.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Andrew N. Tershakovec, M.D.</v-card-title>
+                <br />
+                <p>(1921-2007) (University of Vienna)</p>
+                <p>1049 Park Ave., New York, NY 10028. Tel. (212) 722-2132</p>
+                <p>Graduate, Training and Supervising Analyst, Faculty member, American Institute for Psychoanalysis; Acting Chief, Outpatient Clinic, Manhattan Veteran Administration Medical Center; private practice. Formerly Clinical Assistant Professor of Psychiatry, NYU; contributor to AJP.</p>
+                <p>Book: The Mind: The Power that Changed the Planet. (2007), publshed by AuthorHouse. Available in Kindle format from Amazon.com.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Benjamin R. Tong, Ph.D.</v-card-title>
+                <br />
+                <p>(Clinical Psychology, California School of Professional Psychology)</p>
+                <p>1957 Stockton St., San Francisco, CA 94133. Tel. (415) 362-4591</p>
+                <p>Associate Professor, Clinical Psychology Program, California Institute of Integral Studies, San Francisco; Research Associate, Institute for the Study of Social Change, U. of California, Berkeley; Lecturer, Asian American Studies Dept., San Francisco State U. Psychotherapist and organizational consultant in private practice; writer and critic; social and clinical researcher; theater arts.</p>
+                <p>"My interests include certain issues and questions which call upon cross-cultural, existentialist, psychohistorical and social-psychological approaches--e.g., collective trauma (Japanese-American concentration camps), Anti-Chinese movement (1860s-1930s), the alleged madness of certain political leaders, psychopathology vs. evil, interpersonal violence, mind-body health, myth and identity, national character studies, relevance of East Asian disciplines for psychotherapy.</p>
+                <p>In my estimate, Horney was a pioneer in laying the conceptual foundations for cross-cultural psychological work. Her perspective on the cultural sources of white middle class neurosis was particularly helpful for my own work on a similar theme amongst Chinese Americans. I am presently finishing a book-length manuscript on a Taoist approach to psychotherapy. Horney's notion of health as reflected in a flexible style of relating resonates to the Taoist idea of 'true identity' as 'no identity.'"</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Robert Tucker, Ph.D.</v-card-title>
+                <br />
+                <p>(Philosophy, Harvard)</p>
+                <p>44 Hartley Ave., Princeton, NJ 08540. Tel. (609) 921-9484</p>
+                <p>Emeritus IBM Professor of Politics, Princeton U.; active in International Society of Political Psychology; past president, American Association for the Advancement of Slavic Studies.</p>
+                <p>"Robert Tucker is primarily a specialist in Russian history and politics, as well as Marxist thought. His original training was in philosophy. A student of Horney's thought since his student days at Harvard in the early 1940s, he subsequently drew on her theory of the neurotic personality in his work on a doctoral thesis in philosophy which was published in 1961 as Philosophy and Myth in Karl Marx. In Russian studies his work as a biographer of Stalin and historian of the Stalin era has turned in a crucial way on a view of Stalin as a classic case of Horney's 'arrogant-vindictive' type. His Horneyan interpretation of Stalin has guided him in Stalin as Revolutionary, 1879-1929 and Stalin in Power: The Revolution from Above, 1928-1941, and will figure in the projected third volume of the trilogy, Stalin, Russia, and the World: The War and Postwar Years, 1941-1953."</p>
+                <p>Professor Tucker's books on Stalin are published by W. W. Norton.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marilyn Sankin Tushman, C.S.W.</v-card-title>
+                <br />
+                <p>(Smith College for Social Work)</p>
+                <p>17 Myrtledale Road, Scarsdale, NY 10583. Tel. 914-723-8207</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Paul L. Wachtel, Ph.D.</v-card-title>
+                <br />
+                <p>(Psychology, Yale); Graduate, Postdoctoral Program in Psychoanalysis, NYU</p>
+                <p>79 W. 12th St., New York, NY 10011. Tel. (212) 242-0811.</p>
+                <p>Distinguished Professor of Psychology, City College and Graduate Center, CUNY. Books: Psychoanalysis and Behavior Therapy, Action and Insight, The Poverty of Affluence, Family Dynamics in Individual Psychotherapy.</p>
+                <p>Book in progress: Principles of Therapeutic Communication</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Leo Weinberger, B.A.</v-card-title>
+                <br />
+                <p>(NYU), J.D. (Yeshiva University)</p>
+                <p>24 5th Avenue, Apt. 827, New York, NY 10011. Tel. (212) 228-4404</p>
+                <p>Lecturer, NYU Real Estate Institute; practicing attorney.</p>
+                <p>"I am in analysis with a Horneyan therapist and would like to study and discuss Neurosis and Human Growth with another person or several persons. I would like to meet or have telephone conversations or correspond to discuss the book with a view toward assisting one another in trying to identify neurotic behavior and learning as much as possible from that process."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Marcia Westkott, Ph.D.</v-card-title>
+                <br />
+                <p>(Sociology, U. of Pennsylvania)</p>
+                <p>240 Sherman Ave., Sheridan, Wyoming 82801. Tel. 307-673-7388. E-mail: marciaw@ven.com [updated 2001]</p>
+                <p>Professor of Sociology, Director of Women's Studies, University of Colorado [retired]. Steering Committee, International Karen Horney Society. Author of The Feminist Legacy of Karen Horney (Yale, 1986). Also, "Female Relationality and the Idealized Self," AJP, 49 (1989), 239-50. Professor Westkott is writing a paper on Horney's later interest in Zen Buddhism.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Wanda Willig, M.D.</v-card-title>
+                <br />
+                <p>(University of Vienna) [deceased]</p>
+                <p>1045 Park Ave., New York, NY 10028. Tel. (212) 831-0289</p>
+                <p>Graduate, American Institute for Psychoanalysis, Postgraduate Center for Mental Health (Group Therapy). Private practice.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Eleanor Yaches, M.D.</v-card-title>
+                <br />
+                <p>228 E. 85th St., 13B., New York, NY 10028. Tel. (212) 879-6956</p>
+                <p>Editor, Newsletter of the Association for the Advancement of Psychoanalysis. Non-professional interests: politics, bias, discrimination, power and lack of it, utopianism, emerging movements, literature, painting, sculpture, cartoons, drama, film, humor, freethinkers, researchers, philosophers, what makes evil & how to prevent it--for starters.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Reiko Yonogi, Ph.D.</v-card-title>
+                <br />
+                <p>(Comparative Literature, University of Illinois)</p>
+                <p>9161 Fireside Dr., Indianapolis, IN 46250. Tel. 317-841-7428</p>
+                <p>Assistant Professor, Japanese Studies, Indiana University-Purdue University at Indianapolis.</p>
+                <p>"My research interest is in modern Japanese women's writing. I recently discovered Horney's writings and hope to use her theory in my approach to literature."</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+        <v-flex d-flex xs12>
+          <v-layout row wrap>
+            <v-flex d-flex xs12>
+              <v-card class="long-card">
+                <v-card-title class="h4">Christa Zorn, Ph.D.</v-card-title>
+                <br />
+                <p>(English, U. of Florida)</p>
+                <p>750 Zorn Ave. #15, Louisville, KY 40206. Tel. 502-897-9227 [updated 2001]</p>
+                <p>Assistant Professor of English, Indiana University Southeast, New Albany, Indiana. Field of specialization: nineteenth century British literature. Doctoral dissertation on Vernon Lee. A native of Hamburg (Horney's birthplace) who has worked as research assistant to Bernard Paris on Karen Horney: A Psychoanalyst's Search for Self-Understanding (Yale U.P., 1994) and has assisted with The Unknown Karen Horney: Unpublished and Uncollected Writings, which is currently being prepared for the Yale University Press.</p>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-flex>
+      </v-layout>
+    </v-container>
+    <Footer />
+  </div>
+</template>
+
+<script>
+import Footer from "@/components/Footer";
+
+export default {
+  name: "m14",
+  components: {
+    Footer
+  }
+};
+</script>
+
+<style scoped>
+.titl {
+  font-family: "Playfair+Display", serif;
+  font-size: 25px;
+  color: #8a2c2c;
+  font-weight: 400;
+  padding-bottom: 0px;
+}
+
+.h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+.cont {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 25px;
+  padding: 50px;
+}
+
+.gif {
+  height: 500px;
+  width: 100%;
+  text-align: center;
+}
+img {
+  object-fit: cover;
+}
+
+.cent {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.long-card-wrap {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.long-card {
+  height: 500px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.v-card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+</style>

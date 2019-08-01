@@ -1,0 +1,64 @@
+<template>
+  <div>
+    <v-container>
+      <v-layout>
+        <v-flex xs12 class="text">
+          <v-card-title class="titl">
+            Mimetic or Semiotic?
+            Delineation of ‘Fictive Persons’ in Pakistani Fiction in English: A Study of Selected Women Novelists
+          </v-card-title>
+
+          <v-card-text class="cont">
+            By Abdul Baseer
+            <br />ڈاکٹر عبد البصیر
+            <br />Government College University, Faisalabad, Pakistan
+          </v-card-text>
+          <v-card-text class="cont">
+            <p>[Abdul Baseer teaches English at the department of English Language and Literature, Government College University Faisalabad, Pakistan. He completed his Ph.D. in English in the year 2014 at International Islamic University Islamabad, Pakistan. He studied the nature of ‘character’ in Pakistani novel written in English by female novelists. While applying third force psychology, particularly the mature theory of Karen Horney, his study reveals the presence of rich mimetic characters in Pakistani realistic fiction. — Abdul Baseer]</p>
+          </v-card-text>
+          <v-card-text class="h4">Abstract of Ph.D. Thesis</v-card-text>
+          <v-card-text class="cont">
+            <p>The debate surrounding the comparative significance of character and plot in literature is interminable. Since classical Greek literature and its Aristotelian criticism to the modern times many academic theorists have their specific perspectives on this controversy, depending on their distinct perception of the nature and function of literature in human society. Aristotle, Bradley, Forster, Knights, modern structuralists, recent psychoanalysts, and contemporary cognitive narratologists have been discussing and keep on disagreeing about the comparative importance of character versus plot. Marvin Mudrick as well as Robert Scholes and Robert Kellogg classify literary characters as ‘mimetic/semiotic’, and ‘aesthetic/illustrative/mimetic’. In both kinds of taxonomies, mimetic characters are mostly found in literature produced within the tradition of ‘realism’. This type of characters are often understood and treated as real human beings since they are self-governing individuals having their own inner lives, drives and motivations; and they often do not follow the scheme of the plot as well as the dictates of the theme. Mimetic characters cannot be studied through structuralists’ theories since they are understood as autonomous persons, and not merely as mechanical and operational tools in the plot. The present study emerges from my hypothesis that the Pakistani novel in English, written by female novelists in particular, is an illustration of realistic literature replete with rich mimetic characters. The characters of the selected five novels have been analyzed through the theoretical lens developed in the Third Force Psychology, and Karen Horney’s theoretical concepts of the interpersonal strategies of defense, intrapsychic pride system, neurotic shoulds, neurotic claims and deals (Bernard Paris’ term for deals is bargains) have been utilized to explore the motivations of characters in the selected novels of Tehmina Durrani, Bapsi Sidhwa and Feryal Ali Gauhar. In addition to presenting a motivational analysis of the mimetic characters of the selected novels, I have also singled out the role of authorial rhetoric which often surrounds the interpretative portrait of characters, keeping in view the notions of interpretation and representation. The study reveals that Pakistani novels in English, written by the selected women writers, present a realistic world of conflicting emotions through their psychologically motivated, rich, complex and independent mimetic characters. The analysis also divulges that all the three major categories of mimetic characters (compliant/self-effacing, expansive, detached) have a potent presence in these selected novels.</p>
+          </v-card-text>
+        </v-flex>
+      </v-layout>
+    </v-container>
+    <Footer />
+  </div>
+</template>
+
+<script>
+import Footer from "@/components/Footer";
+
+export default {
+  name: "e2",
+  components: {
+    Footer
+  }
+};
+</script>
+
+<style scoped>
+.titl {
+  font-family: "Playfair+Display", serif;
+  font-size: 25px;
+  color: #8a2c2c;
+  font-weight: 400;
+  padding-bottom: 0px;
+}
+
+.h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-bottom: 0px;
+}
+.cont {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 25px;
+  padding-top: 10px;
+}
+</style>
